@@ -1,0 +1,8 @@
+{
+  "name": "Remix Waterscope - Geospatial Watershed Intelligence Platform",
+  "description": "Application of Geospatial Techniques for Visualization and Analysis to Interpret Geo-Coded Images to Enhance Watershed Development Outcomes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
